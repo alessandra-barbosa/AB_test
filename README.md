@@ -1,9 +1,9 @@
 # A/B Test 
 
-## What does an A/B test do?
+# What does an A/B test do?
 A/B testing, also known as split testing, is a marketing experiment wherein you split your audience to test a number of variations of a campaign and determine which performs better. In other words, you can show version A of a piece of marketing content to one half of your audience, and version B to another
 
-## Business Problem
+# Business Problem 01 (James)
 Electronic House is online commerce (e-commerce) of computer products for homes and offices. Customers can buy mice, monitors, keyboards, computers, laptops, HDMI cables, headphones, and webcam cameras, among others, through an online site and receive the products in the comfort of their homes.
 The UX designers team has been working on a new sales page, with the objective of increasing the conversion rate of a store product, a bluetooth keyboard. The product manager said that the conversion rate of the current page is 13% on average over the last year.
 The product manager's goal is to increase the conversion rate by 2%, that is, the new sales page, developed by the UX team, would be a success if your conversion rate was 15%.
