@@ -21,3 +21,4 @@ current?
 
 ## Dataset
 https://www.kaggle.com/datasets/zhangluyuan/ab-testing?select=ab_data.csv
+![image](https://user-images.githubusercontent.com/70095554/177532054-d1aaec9c-590b-4505-a072-9693507b4b26.png)
